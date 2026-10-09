@@ -13,6 +13,12 @@ body {
 main {
   text-align: center;
 }
+#datetime {
+  background-color: white;
+  width: 300px;
+  margin: auto;
+  border: 1px solid grey;
+}
 
 button {
   background-color: blue;
